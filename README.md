@@ -64,7 +64,7 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [Example resource 1](https://sortablejs.github.io/Sortable/) - This helped me for drag and drop with animations. I really liked this pattern and will use it going forward.
+- (https://sortablejs.github.io/Sortable/) - This helped me for drag and drop with animations. I really liked this pattern and will use it going forward.
 
 ## Author
 
