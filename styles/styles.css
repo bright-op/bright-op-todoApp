@@ -256,7 +256,6 @@ button {
 .filter-buttons-mobile button:focus {
         color: var(--BrightBlue)
 }
-.filter-buttons-mobile button {
 @media (max-width:600px) {
     .todo-container {
         width: 90%;
