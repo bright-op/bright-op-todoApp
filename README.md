@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: live site :(https://your-live-site-url.com)
+- Live Site URL: live site :[(https://your-live-site-url.com)](https://bright-op.github.io/bright-op-todoApp/)
 
 
 ### Built with
